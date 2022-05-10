@@ -10,7 +10,7 @@ img{
     width: 800px;
 }
 
-#pizza-heading{
+h1{
     text-align: center;
-    background-color:aquamarine;
+    background-color: aquamarine;
 }
