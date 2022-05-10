@@ -9,3 +9,8 @@ img{
     height: auto;
     width: 800px;
 }
+
+#pizza-heading{
+    text-align: center;
+    background-color:aquamarine;
+}
